@@ -1,0 +1,20 @@
+.contatos{
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+  }
+  
+  .contatos__txt {
+    margin-top: 20px;
+    font-size: 30px;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .contatos__formas {
+    max-width: 100%;
+    gap: 40px;
+    justify-items: center;
+  }

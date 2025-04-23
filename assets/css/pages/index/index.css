@@ -1,0 +1,8 @@
+@import "../../global/global.css";
+
+@import "partials/inicio.css";
+@import "partials/nav.css";
+@import "partials/portfolio.css";
+@import "partials/form.css";
+@import "partials/especialidades.css";
+@import "partials/contatos.css";

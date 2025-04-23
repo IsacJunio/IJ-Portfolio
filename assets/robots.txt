@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isacjunio.github.io/IJ-Portfolio/sitemap.xml
