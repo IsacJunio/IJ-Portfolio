@@ -14,7 +14,7 @@ Este projeto está sob **Licença Comercial**.
 **Você NÃO está autorizado** a copiar, modificar, redistribuir ou utilizar este código em nenhum projeto, pessoal ou comercial, **sem autorização por escrito do autor**.
 
 > Para licenciamento ou permissões, entre em contato:  
-📧 **isacjunio@email.com** (substitua pelo seu email real)
+📧 **isasac.bh@gmail.com** (substitua pelo seu email real)
 
 ## 🧑‍💻 Autor
 
